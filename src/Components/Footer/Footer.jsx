@@ -19,25 +19,25 @@ function Footer() {
                 Featured Products
               </h5>
               <ul>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/aon">AON Switch</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/airsilver">Air Silver</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/airon">Airon</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/rio">Rio Switch</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/airo">Airo Switch</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/modularglass">Modular Glass</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/mcb">MCB</Link>
                 </li>
               </ul>
@@ -47,16 +47,16 @@ function Footer() {
                 Quick Links
               </h5>
               <ul>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/">Home</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#E70D2F]">
+                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#bf8cff]">
                   <Link to="/about">About Us</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#E70D2F]">
+                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#bf8cff]">
                   <Link to="/product">Products</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#E70D2F]">
+                <li className="text-[15px] text-[#6e6e6e] mb-[15px] transition-all duration-500 hover:text-[#bf8cff]">
                   <Link to="/contact">Contact Us</Link>
                 </li>
               </ul>
@@ -66,13 +66,13 @@ function Footer() {
                 Category
               </h5>
               <ul>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/switch">Switches & Accessories</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/">Plates</Link>
                 </li>
-                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F] mb-[15px]">
+                <li className="text-[15px] text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff] mb-[15px]">
                   <Link to="/">Switchgear</Link>
                 </li>
               </ul>
@@ -128,14 +128,14 @@ function Footer() {
               </h5>
               <Link
                 to="mailto:hello@straco.co.in"
-                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F]"
+                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff]"
               >
                 hello@straco.co.in
               </Link>
               <br />
               <Link
                 to="mailto:straco.shah@gmail.com"
-                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F]"
+                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff]"
               >
                 straco.shah@gmail.com
               </Link>
@@ -146,14 +146,14 @@ function Footer() {
               </h5>
               <Link
                 to="tel:+919699201772"
-                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F]"
+                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff]"
               >
                 +91 9699201772
               </Link>
               <br />
               <Link
                 to="tel:+91 9326077410"
-                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F]"
+                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff]"
               >
                 +91 9326077410
               </Link>
@@ -165,7 +165,7 @@ function Footer() {
               <Link
                 to="https://maps.app.goo.gl/xuSmMPwXRvZnb1Xh7"
                 target="_blank"
-                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#E70D2F]"
+                className="text-[#6e6e6e] transition-all duration-500 hover:text-[#bf8cff]"
               >
                 M/s. SHAH INDUSTRIES <br /> Plot No: 53, Papdi Industrial
                 Estate, <br /> Umela Phata, Vasai (West), <br />{" "}
