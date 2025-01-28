@@ -30,7 +30,7 @@ function Aboutabout() {
               data-aos-duration="1000"
               data-aos-delay="100"
             >
-              <p className="text-[16px] text-[#c4c4c4] transition-all duration-500 hover:text-[#E70D2F]">
+              <p className="text-[16px] text-[#c4c4c4] transition-all duration-500 hover:text-[#bf8cff]">
                 Every sunset is an opportunity to reset. Every sunrise
                 <br className="sm:block hidden" /> begins with new eyes. With
                 those new eyes and <br className="sm:block hidden" /> new vision
