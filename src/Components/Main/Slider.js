@@ -173,7 +173,7 @@ function Sliderr() {
                   className="lg:h-[348px] h-[228px] transition-all duration-1000 hover:rotate-[360deg] px-[30px]"
                   alt=""
                 />
-                <h5 className="text-center text-[24px] transition-all duration-500  hover:text-[#C88887]">
+                <h5 className="text-center text-[24px] transition-all duration-500  hover:text-[#bf8cff]">
                   {item.h5}
                 </h5>
               </div>
