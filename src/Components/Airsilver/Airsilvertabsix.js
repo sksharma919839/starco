@@ -82,7 +82,7 @@ function Airsilvertabsix() {
             {tableData.map((item) => (
               <tr
                 key={item.id}
-                className="text-center bg-[#494949] sm:text-[16px] text-[14px] w-[100%]  cursor-pointer h-[40px] border-y transition-all duration-500 hover:bg-[#c88887]"
+                className="text-center bg-[#494949] sm:text-[16px] text-[14px] w-[100%]  cursor-pointer h-[40px] border-y transition-all duration-500 hover:bg-[#bf8cff]"
               >
                 <td>{item.code}</td>
                 <td>{item.product}</td>
