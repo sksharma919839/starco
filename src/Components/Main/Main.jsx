@@ -21,7 +21,7 @@ function Main() {
               data-aos-delay="400"
               data-aos-duration="1000"
               to="/aon"
-              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#E70D2F] text-[#00a2ff] z-[1]"
+              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#bf8cff] text-[#00a2ff] z-[1]"
             >
               <span className="mr-[3px]">Know More</span>
               <FaAngleRight size={21} />
@@ -58,7 +58,7 @@ function Main() {
               data-aos-delay="400"
               data-aos-duration="1000"
               to="/rio"
-              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#E70D2F] text-[#00a2ff] z-[1]"
+              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#bf8cff] text-[#00a2ff] z-[1]"
             >
               <span className="mr-[3px]">Know More</span>
               <FaAngleRight size={21} />
@@ -93,7 +93,7 @@ function Main() {
               data-aos-delay="400"
               data-aos-duration="1000"
               to="/airo"
-              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#E70D2F] text-[#00a2ff] z-[1]"
+              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#bf8cff] text-[#00a2ff] z-[1]"
             >
               <span className="mr-[3px]">Know More</span>
               <FaAngleRight size={21} />
@@ -131,7 +131,7 @@ function Main() {
               data-aos-delay="400"
               data-aos-duration="1000"
               to="/airo"
-              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#E70D2F] text-[#00a2ff] z-[1]"
+              className="flex items-center text-[16px] pt-[24px] poppins transition-all duration-500 hover:text-[#bf8cff] text-[#00a2ff] z-[1]"
             >
               <span className="mr-[3px]">Know More</span>
               <FaAngleRight size={21} />
