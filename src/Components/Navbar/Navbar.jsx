@@ -64,8 +64,8 @@ function Navbar() {
                 to="/"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] group py-[8px] px-[20px]"
-                    : "text-[#ffffff] text-[16px] group py-[8px] px-[20px] transition-all duration-500 hover:text-[#e70d2f]"
+                    ? "text-[#bf8cff] text-[16px] group py-[8px] px-[20px]"
+                    : "text-[#ffffff] text-[16px] group py-[8px] px-[20px] transition-all duration-500 hover:text-[#bf8cff]"
                 }
               >
                 Home
@@ -76,7 +76,7 @@ function Navbar() {
                 to="/product"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] rounded-lg py-[12px] px-[20px] relative"
+                    ? "text-[#bf8cff] text-[16px] rounded-lg py-[12px] px-[20px] relative"
                     : "text-[#ffffff] text-[16px] rounded-lg py-[12px] px-[20px] relative transition-all  product-box "
                 }
               >
@@ -260,8 +260,8 @@ function Navbar() {
                 to="/about"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] py-[8px] px-[20px]"
-                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#e70d2f]"
+                    ? "text-[#bf8cff] text-[16px] py-[8px] px-[20px]"
+                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#bf8cff]"
                 }
               >
                 About Us
@@ -272,8 +272,8 @@ function Navbar() {
                 to="/media"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] py-[8px] px-[20px]"
-                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#e70d2f]"
+                    ? "text-[#bf8cff] text-[16px] py-[8px] px-[20px]"
+                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#bf8cff]"
                 }
               >
                 Media
@@ -284,8 +284,8 @@ function Navbar() {
                 to="/career"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] py-[8px] px-[20px]"
-                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#e70d2f]"
+                    ? "text-[#bf8cff] text-[16px] py-[8px] px-[20px]"
+                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#bf8cff]"
                 }
               >
                 Career
@@ -296,8 +296,8 @@ function Navbar() {
                 to="/contact"
                 className={({ isActive }) =>
                   isActive
-                    ? "text-[#E70D2F] text-[16px] py-[8px] px-[20px]"
-                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#e70d2f]"
+                    ? "text-[#bf8cff] text-[16px] py-[8px] px-[20px]"
+                    : "text-[#ffffff] text-[16px] py-[8px] px-[20px] transition-all duration-500 hover:text-[#bf8cff]"
                 }
               >
                 Contact Us
@@ -348,8 +348,8 @@ function Navbar() {
                   <NavLink
                     to={items.link}
                     className={({ isActive }) =>
-                      `${isActive ? "text-[#E70D2F] " : "text-[#ffffff]"
-                      } py-[7px] text-[20px] hover:text-[#E70D2F] transition-all duration-500 `
+                      `${isActive ? "text-[#bf8cff] " : "text-[#ffffff]"
+                      } py-[7px] text-[20px] hover:text-[#bf8cff] transition-all duration-500 `
                     }
                   >
                     {items.name}
