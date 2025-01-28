@@ -9,7 +9,7 @@ function Aboutmain() {
             data-aos="fade-up"
             data-aos-duration="1000"
             data-aos-delay="100"
-            className="text-[48px] text-[#f5f5f7] cursor-pointer transition-all duration-500 hover:text-[#C88887] text-center pt-[140px]"
+            className="text-[48px] text-[#f5f5f7] cursor-pointer transition-all duration-500 hover:text-[#bf8cff] text-center pt-[140px]"
           >
             About Us
           </h1>
