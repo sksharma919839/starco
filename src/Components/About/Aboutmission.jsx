@@ -52,7 +52,7 @@ function Aboutmission() {
           >
             {tab === 0 && (
               <div>
-                <p className="font-[Poppins] text-[16px] text-[#c4c4c4] mb-[16px] transition-all duration-500 hover:text-[#E70D2F]">
+                <p className="font-[Poppins] text-[16px] text-[#c4c4c4] mb-[16px] transition-all duration-500 hover:text-[#bf8cff]">
                   At STRACO, our mission is to innovate and deliver exceptional{" "}
                   products that meet the evolving needs of our customers. We are
                   committed to quality, sustainability, and excellence in
@@ -65,7 +65,7 @@ function Aboutmission() {
             )}
             {tab === 1 && (
               <div>
-                <p className="font-[Poppins] text-[16px] text-[#c4c4c4] mb-[16px] transition-all duration-500 hover:text-[#E70D2F]">
+                <p className="font-[Poppins] text-[16px] text-[#c4c4c4] mb-[16px] transition-all duration-500 hover:text-[#bf8cff]">
                   STRACO envisions a future where our innovative solutions set{" "}
                   the standard in the industry, driving positive change and
                   creating a sustainable world. We strive to be a global leader,
