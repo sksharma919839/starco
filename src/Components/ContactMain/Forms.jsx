@@ -86,7 +86,7 @@ function Forms() {
             </div>
             <button
               type="submit"
-              className="mt-[50px] text-[#f5f5f7] bg-[#00A2FF] px-[20px] py-[10px] rounded-3xl transition-all duration-500 hover:bg-[#e70d2f]"
+              className="mt-[50px] text-[#f5f5f7] bg-[#00A2FF] px-[20px] py-[10px] rounded-3xl transition-all duration-500 hover:bg-[#bf8cff]"
             >
               Send a message
             </button>
