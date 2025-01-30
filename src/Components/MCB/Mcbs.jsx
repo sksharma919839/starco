@@ -19,10 +19,10 @@ function Mcbs() {
           data-aos-delay="100"
           className="text-center py-[30px]"
         >
-          <h2 className="hover:text-[#C88887] text-[32px] cursor-pointer text-[#ffffff] transition-all duration-500">
+          <h2 className="hover:text-[#bf8cff] text-[32px] cursor-pointer text-[#ffffff] transition-all duration-500">
             MCB
           </h2>
-          <h4 className="hover:text-[#ffffff] text-[26px] cursor-pointer text-[#C88887] transition-all duration-500">
+          <h4 className="hover:text-[#ffffff] text-[26px] cursor-pointer text-[#bf8cff] transition-all duration-500">
             MINIATURE CIRCUIT BREAKER - MCB ISOLATOR - ELCB
           </h4>
         </div>
