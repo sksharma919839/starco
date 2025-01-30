@@ -17,7 +17,7 @@ function Airoplus() {
           data-aos-delay="100"
           className="text-center py-[30px]"
         >
-          <h4 className="hover:text-[#ffffff] text-[32px] cursor-pointer text-[#C88887] transition-all duration-500">
+          <h4 className="hover:text-[#ffffff] text-[32px] cursor-pointer text-[#bf8cff] transition-all duration-500">
             Plus Series
           </h4>
         </div>
